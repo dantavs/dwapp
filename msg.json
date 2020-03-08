@@ -1,0 +1,30 @@
+Update : {
+  'update_id': 130481077,
+  'message': {
+      'message_id': 65847,
+      'date': 1583070950,
+      'chat': {
+          'id': -168535000,
+          'type': 'group',
+          'title': 'Group DWApp Bot Dev',
+          'all_members_are_administrators': True},
+      'text': '/c Limite',
+      'entities': [
+          {'type': 'bot_command',
+          'offset': 0,
+          'length': 2}],
+      'caption_entities': [],
+      'photo': [],
+      'new_chat_members': [],
+      'new_chat_photo': [],
+      'delete_chat_photo': False,
+      'group_chat_created': False,
+      'supergroup_chat_created': False,
+      'channel_chat_created': False,
+      'from': {
+          'id': 203007344,
+          'first_name': 'Daniel Tavares',
+          'is_bot': False,
+          'username': 'dantavs',
+          'language_code': 'pt-br'}},
+      '_effective_user': {'id': 203007344, 'first_name': 'Daniel Tavares', 'is_bot': False, 'username': 'dantavs', 'language_code': 'pt-br'}, '_effective_chat': {'id': -168535000, 'type': 'group', 'title': 'Group DWApp Bot Dev', 'all_members_are_administrators': True}, '_effective_message': {'message_id': 65847, 'date': 1583070950, 'chat': {'id': -168535000, 'type': 'group', 'title': 'Group DWApp Bot Dev', 'all_members_are_administrators': True}, 'text': '/c Limite', 'entities': [{'type': 'bot_command', 'offset': 0, 'length': 2}], 'caption_entities': [], 'photo': [], 'new_chat_members': [], 'new_chat_photo': [], 'delete_chat_photo': False, 'group_chat_created': False, 'supergroup_chat_created': False, 'channel_chat_created': False, 'from': {'id': 203007344, 'first_name': 'Daniel Tavares', 'is_bot': False, 'username': 'dantavs', 'language_code': 'pt-br'}}}
